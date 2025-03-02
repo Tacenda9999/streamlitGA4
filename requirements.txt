@@ -1,2 +1,2 @@
 streamlit==1.42.2
-git+https://github.com/streamlit/streamlit.git#egg=streamlit
+git+https://github.com/streamlit/streamlit.git
