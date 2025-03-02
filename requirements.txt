@@ -1,1 +1,2 @@
 git+https://github.com/Tacenda9999/streamlitGA4.git
+numpy
