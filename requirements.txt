@@ -1,1 +1,1 @@
-git+https://github.com/Tacenda9999/streamlitGA4.git
+git+https://github.com/Tacenda9999/streamlitGA4.git#egg=streamlit&subdirectory=streamlit
